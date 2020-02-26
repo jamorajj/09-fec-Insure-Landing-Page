@@ -2,7 +2,7 @@
 
 Frontend Challenge - Insure Landing Page
 
-Solution for Insure Landing Page challenge.
+Solution for Insure Landing Page challenge
 
 # Frontend Mentor - Insure Landing Page
 
